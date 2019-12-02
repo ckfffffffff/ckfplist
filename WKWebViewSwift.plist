@@ -11,7 +11,7 @@
                     <key>kind</key>
                     <string>software-package</string>
                     <key>url</key>
-                    <string>http://110.56.54.5:8080/downloads/WKWebViewSwift.ipa</string>
+                    <string>https://raw.githubusercontent.com/ckfffffffff/ckfplist/master/WKWebViewSwift.ipa</string>
                 </dict>
             </array>
             <key>metadata</key>
